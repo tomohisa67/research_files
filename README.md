@@ -5,4 +5,3 @@
 * jouhoukika.pdf: 情報幾何 勉強会
 * optimal_transport.pdf: 最適輸送 勉強会
 * optimization.pdf: 最適化 勉強会
-* tabuchi1.pdf: 卒論発表資料 簡易版 
